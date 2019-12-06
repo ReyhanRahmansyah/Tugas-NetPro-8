@@ -1,9 +1,9 @@
 # Tugas NetPro 8
 
 # Anggota Kelompok : 
-# Meilyand Evriyan Timor (1301161769)
-# Reyhan Rahmansyah (1301160805)
-# Reno Butar Butar (1301164724)
+Meilyand Evriyan Timor (1301161769)  
+Reyhan Rahmansyah (1301160805)  
+Reno Butar Butar (1301164724)  
 
 # Source Code main.go dan Dockerfile
 ![main.go](https://meilyand.student.telkomuniversity.ac.id/files/2019/10/main.go_-1.png)
